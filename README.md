@@ -1,5 +1,7 @@
 "Python for Social Scientists" tutorial.
 
-Start off by opening `starter.py`.
+This is an implementation of the solution using the Pandas library.
 
-See remaining steps under `cheatsheet.md`.
+It makes use of the `pd.DataFrame.to_csv`, `pd.read_csv`, `pd.merge` functions along with the `pycountry` module.
+
+Please review and share your version.
